@@ -71,7 +71,7 @@
 
 ### Contact
 
-  * Instagram: ![@matthieustewart](https://www.instagram.com/matthieustewart/)
+  * Instagram: [@matthieustewart](https://www.instagram.com/matthieustewart/)
 <ul>
   <li><img src="./informacoes/logo-whatsapp.svg" style="width:14px;margin-right:5px;"><span> <strong>Whatsapp:</strong> 21 99455-5856</span></li>
   <li><img src="./informacoes/logo-gmail.svg" style="width:14px;margin-right:5px;"><span> <strong>Email:</strong> matthieustmartinez@gmail.com</span></li>
