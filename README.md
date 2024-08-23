@@ -71,6 +71,7 @@
 
 ### Contact
 
+  * Curriculo: [Curriculo.pdf](./Curriculo.pdf)
   * Instagram: [@matthieustewart](https://www.instagram.com/matthieustewart/)
 <ul>
   <li><img src="./informacoes/logo-whatsapp.svg" style="width:14px;margin-right:5px;"><span> <strong>Whatsapp:</strong> 21 99455-5856</span></li>
