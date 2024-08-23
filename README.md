@@ -38,7 +38,7 @@
 
 ![Java](https://img.shields.io/badge/-Java-171D1C?style=for-the-badge&logo=Java&labelColor=171D1C)&nbsp;
 ![Springboot](https://img.shields.io/badge/-Springboot-171D1C?style=for-the-badge&logo=Springboot&labelColor=171D1C&textColor=171D1C)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-171D1C?style=for-the-badge&logo=javascript&labelColor=171D1C&textColor=171D1C)&nbsp;
+![Angular](https://img.shields.io/badge/-Angular-171D1C?style=for-the-badge&logo=Angular&labelColor=171D1C&textColor=171D1C)&nbsp;
 
 <hr style="height:4px;border-radius:2px;background-color:#eda24c;"/>
 
@@ -71,6 +71,7 @@
 
 ### Contact
 
+  * Curriculum: [Curriculum](./informacoes//curriculo.pdf)
   * Instagram: [@matthieustewart](https://www.instagram.com/matthieustewart/)
 <ul>
   <li><img src="./informacoes/logo-whatsapp.svg" style="width:14px;margin-right:5px;"><span> <strong>Whatsapp:</strong> 21 99455-5856</span></li>
