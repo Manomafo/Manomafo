@@ -70,7 +70,7 @@
 <hr style="height:4px;border-radius:2px;background-color:#eda24c;"/>
 
 ### Contact
-
+  * Linkedin: [Linkedin](https://www.linkedin.com/in/matthieu-stewart-martinez-653841304/)
   * Curriculum: [Curriculum](./informacoes//curriculo.pdf)
   * Instagram: [@matthieustewart](https://www.instagram.com/matthieustewart/)
 <ul>
