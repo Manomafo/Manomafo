@@ -44,7 +44,7 @@
 
 ### My portifolio
 
-1. [**Clone Spotify**](https://github.com/Manomafo/spotify-clone-alura) 
+1. [**Clone Spotify**](https://github.com/Manomafo/spotify-clone-alura)
 
     It was a big challenge for me because it was my first project that I published on github, a large part of the project was done with CSS.
    The project itself was to copy the first page.
@@ -55,8 +55,7 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-171D1C?style=for-the-badge&logo=javascript&labelColor=171D1C&textColor=171D1C)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-171D1C?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=171D1C)&nbsp;
 
-
-1. [**Calculadoura-de-Investimento**](https://github.com/Manomafo/Calculadoura-de-investimento)
+2. [**Calculadoura-de-Investimento**](https://github.com/Manomafo/Calculadoura-de-investimento)
    This is a calculator with graphs and tables, designed to calculate your interest on dividends from your stock market assets.
 
 #### Technologies used
@@ -67,12 +66,39 @@
 ![CSS](https://img.shields.io/badge/-CSS-171D1C?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=171D1C)&nbsp;
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-171D1C?style=for-the-badge&logo=TailwindCSS&labelColor=171D1C)&nbsp;
 
+3. [**InvestPulse**](https://github.com/Manomafo/Invest-Pulse)
+
+    Used to simulate and calculate B3
+
+#### Technologies used
+
+![Vite](https://img.shields.io/badge/-Vite-171D1C?style=for-the-badge&labelColor=171D1C)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-171D1C?style=for-the-badge&logo=javascript&labelColor=171D1C&textColor=171D1C)&nbsp;
+![HTML](https://img.shields.io/badge/-HTML-171D1C?style=for-the-badge&logo=html5&labelColor=171D1C)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-171D1C?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=171D1C)&nbsp;
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-171D1C?style=for-the-badge&logo=TailwindCSS&labelColor=171D1C)&nbsp;
+![Java](https://img.shields.io/badge/-Java-171D1C?style=for-the-badge&logo=Java&labelColor=171D1C&textColor=171D1C)&nbsp;
+![Spring-Boot](https://img.shields.io/badge/-Springboot-171D1C?style=for-the-badge&logo=Springboot&labelColor=171D1C&textColor=171D1C)&nbsp;
+
+4. [**Personal-Portfolio-Website**](https://github.com/Manomafo/Personal-Portfolio-Website)
+
+    Virtual CV
+
+#### Technologies used
+
+![HTML](https://img.shields.io/badge/-HTML-171D1C?style=for-the-badge&logo=html5&labelColor=171D1C)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-171D1C?style=for-the-badge&logo=javascript&labelColor=171D1C&textColor=171D1C)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-171D1C?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=171D1C)&nbsp;
+![Jquery](https://img.shields.io/badge/-jquery-171D1C?style=for-the-badge&logo=jquery&labelColor=171D1C&textColor=171D1C)&nbsp;
+
 <hr style="height:4px;border-radius:2px;background-color:#eda24c;"/>
 
 ### Contact
-  * Linkedin: [Linkedin](https://www.linkedin.com/in/matthieu-stewart-martinez-653841304/)
-  * Curriculum: [Curriculum](./informacoes//curriculo.pdf)
-  * Instagram: [@matthieustewart](https://www.instagram.com/matthieustewart/)
+
+* Linkedin: [Linkedin](https://www.linkedin.com/in/matthieu-stewart-martinez-653841304/)
+* Curriculum: [Curriculum](./informacoes//curriculo.pdf)
+* Instagram: [@matthieustewart](https://www.instagram.com/matthieustewart/)
+
 <ul>
   <li><img src="./informacoes/logo-whatsapp.svg" style="width:14px;margin-right:5px;"><span> <strong>Whatsapp:</strong> 21 99455-5856</span></li>
   <li><img src="./informacoes/logo-gmail.svg" style="width:14px;margin-right:5px;"><span> <strong>Email:</strong> matthieustmartinez@gmail.com</span></li>
