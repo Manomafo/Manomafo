@@ -97,6 +97,7 @@
 
 * Linkedin: [Linkedin](https://www.linkedin.com/in/matthieu-stewart-martinez-653841304/)
 * Curriculum: [Curriculum](./informacoes//curriculo.pdf)
+* Curriculum Virtual: [Curriculum Virtual](https://personal-portfolio-lczo.onrender.com)
 * Instagram: [@matthieustewart](https://www.instagram.com/matthieustewart/)
 
 <ul>
